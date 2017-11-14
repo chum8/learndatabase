@@ -1,0 +1,9 @@
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\bin\Debug\Ch03_DatabaseTitles_02.exe.config
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\bin\Debug\Ch03_DatabaseTitles_02.exe
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\bin\Debug\Ch03_DatabaseTitles_02.pdb
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\obj\Debug\Ch03_DatabaseTitles_02.csprojResolveAssemblyReference.cache
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\obj\Debug\Ch03_DatabaseTitles_02.frmTitles.resources
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\obj\Debug\Ch03_DatabaseTitles_02.Properties.Resources.resources
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\obj\Debug\Ch03_DatabaseTitles_02.csproj.GenerateResource.Cache
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\obj\Debug\Ch03_DatabaseTitles_02.exe
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_02\Ch03_DatabaseTitles_02\obj\Debug\Ch03_DatabaseTitles_02.pdb

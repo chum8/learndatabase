@@ -1,0 +1,5 @@
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03\Ch03_TitlesDatabase\obj\Debug\MainWindow.g.cs
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03\Ch03_TitlesDatabase\obj\Debug\App.g.cs
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03\Ch03_TitlesDatabase\obj\Debug\Ch03_TitlesDatabase_MarkupCompile.cache
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03\Ch03_TitlesDatabase\obj\Debug\Ch03_TitlesDatabase_MarkupCompile.lref
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03\Ch03_TitlesDatabase\obj\Debug\Ch03_TitlesDatabase.csprojResolveAssemblyReference.cache

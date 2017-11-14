@@ -1,0 +1,8 @@
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_03\Ch03_TitlesDatabaseUsingWizrd\bin\Debug\Ch03_TitlesDatabaseUsingWizrd.exe.config
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_03\Ch03_TitlesDatabaseUsingWizrd\bin\Debug\Ch03_TitlesDatabaseUsingWizrd.exe
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_03\Ch03_TitlesDatabaseUsingWizrd\bin\Debug\Ch03_TitlesDatabaseUsingWizrd.pdb
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_03\Ch03_TitlesDatabaseUsingWizrd\obj\Debug\Ch03_TitlesDatabaseUsingWizrd.frmTitles.resources
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_03\Ch03_TitlesDatabaseUsingWizrd\obj\Debug\Ch03_TitlesDatabaseUsingWizrd.Properties.Resources.resources
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_03\Ch03_TitlesDatabaseUsingWizrd\obj\Debug\Ch03_TitlesDatabaseUsingWizrd.csproj.GenerateResource.Cache
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_03\Ch03_TitlesDatabaseUsingWizrd\obj\Debug\Ch03_TitlesDatabaseUsingWizrd.exe
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter03_03\Ch03_TitlesDatabaseUsingWizrd\obj\Debug\Ch03_TitlesDatabaseUsingWizrd.pdb
