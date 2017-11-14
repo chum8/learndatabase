@@ -1,0 +1,9 @@
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\obj\Debug\Ch04_DatabaseSearch.csprojResolveAssemblyReference.cache
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\obj\Debug\Ch04_DatabaseSearch.frmBooks.resources
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\obj\Debug\Ch04_DatabaseSearch.Properties.Resources.resources
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\obj\Debug\Ch04_DatabaseSearch.csproj.GenerateResource.Cache
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\bin\Debug\Ch04_DatabaseSearch.exe.config
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\bin\Debug\Ch04_DatabaseSearch.exe
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\bin\Debug\Ch04_DatabaseSearch.pdb
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\obj\Debug\Ch04_DatabaseSearch.exe
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_02\Ch04_DatabaseSearch\obj\Debug\Ch04_DatabaseSearch.pdb

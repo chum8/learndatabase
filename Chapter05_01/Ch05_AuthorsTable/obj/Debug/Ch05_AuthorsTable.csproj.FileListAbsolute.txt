@@ -1,0 +1,9 @@
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\bin\Debug\Ch05_AuthorsTable.exe.config
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\bin\Debug\Ch05_AuthorsTable.exe
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\bin\Debug\Ch05_AuthorsTable.pdb
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\obj\Debug\Ch05_AuthorsTable.csprojResolveAssemblyReference.cache
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\obj\Debug\Ch05_AuthorsTable.Properties.Resources.resources
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\obj\Debug\Ch05_AuthorsTable.csproj.GenerateResource.Cache
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\obj\Debug\Ch05_AuthorsTable.exe
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\obj\Debug\Ch05_AuthorsTable.pdb
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter05_01\Ch05_AuthorsTable\obj\Debug\Ch05_AuthorsTable.frmPublishers.resources

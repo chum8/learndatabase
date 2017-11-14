@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch04_SqlTester", "Ch04_SqlTester\Ch04_SqlTester.csproj", "{279E75B0-8B7A-4EA5-AA15-FF738B90DB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279E75B0-8B7A-4EA5-AA15-FF738B90DB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279E75B0-8B7A-4EA5-AA15-FF738B90DB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279E75B0-8B7A-4EA5-AA15-FF738B90DB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279E75B0-8B7A-4EA5-AA15-FF738B90DB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\bin\Debug\Ch06_PhoneTable.exe.config
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\bin\Debug\Ch06_PhoneTable.exe
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\bin\Debug\Ch06_PhoneTable.pdb
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\obj\Debug\Ch06_PhoneTable.csprojResolveAssemblyReference.cache
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\obj\Debug\Ch06_PhoneTable.frmPhoneDB.resources
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\obj\Debug\Ch06_PhoneTable.Properties.Resources.resources
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\obj\Debug\Ch06_PhoneTable.csproj.GenerateResource.Cache
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\obj\Debug\Ch06_PhoneTable.exe
+C:\Users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter06_01\Ch06_PhoneTable\obj\Debug\Ch06_PhoneTable.pdb

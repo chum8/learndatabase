@@ -1,0 +1,9 @@
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\bin\Debug\Ch04_SqlTester.exe.config
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\bin\Debug\Ch04_SqlTester.exe
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\bin\Debug\Ch04_SqlTester.pdb
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\obj\Debug\Ch04_SqlTester.csprojResolveAssemblyReference.cache
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\obj\Debug\Ch04_SqlTester.frmSqlTester.resources
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\obj\Debug\Ch04_SqlTester.Properties.Resources.resources
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\obj\Debug\Ch04_SqlTester.csproj.GenerateResource.Cache
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\obj\Debug\Ch04_SqlTester.exe
+c:\users\dms\documents\visual studio 2017\Projects\LearnDatabase\Chapter04_01\Ch04_SqlTester\obj\Debug\Ch04_SqlTester.pdb
